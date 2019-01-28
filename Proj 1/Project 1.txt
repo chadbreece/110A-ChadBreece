@@ -1,0 +1,9 @@
+For Experiment on the Rosenbrock function:
+1. For a starting point at (1.2 ,1.2), the exact steepest descent method runs through 485 iterations while inexact takes 46565 iterations.
+2. For a starting point of (-1.2 ,1), the exact method takes 24477 iterations while the inexact takes 49370 iterations.
+
+As we can see, the exact starts out as a faster way for the first starting point however it starts to catch up to the inexact method at the second starting point.
+
+The rate is convergence for both method are Q-linear. Once there is an exponent applied to the bottom vector norm, it begins to diverge.
+The number given by solving for the rate of convergence is [0.9995880905945351, 0.9996006925678278, 0.9995017722476385, 0.9996006209898841].
+This is respective to the methods in the order of [Exact on first point, Inexact on first point, Exact on second point, Inexact on second point].
