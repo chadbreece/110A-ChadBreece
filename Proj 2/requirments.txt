@@ -1,0 +1,2 @@
+Backtracking Steepest Descent: 
+Backtracking Steepest Descent seems to be faster the Inexact by far however for t
