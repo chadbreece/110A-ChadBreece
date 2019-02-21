@@ -1,0 +1,6 @@
+Dogleg Method:
+
+1. Cauchy method took 20304 iterations.
+2. Dogleg method took 11 iterations.
+3. Cauchy method converges linearly as represented by the log error graph.
+4. Dogleg method converges quadratically, also as represented by the log error graph.
