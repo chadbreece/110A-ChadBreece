@@ -1,0 +1,25 @@
+CG:
+
+Hilbert - 	n: 1	 CG iter:1	 error:0.00e+00	 built-in error:0.00e+00
+		n: 2	 CG iter:2	 error:7.71e-16	 built-in error:4.24e+00
+		n: 4	 CG iter:4	 error:1.63e-09	 built-in error:1.12e+02
+		n: 8	 CG iter:8	 error:4.63e-04	 built-in error:1.04e+05
+		n: 16	 CG iter:16	 error:1.85e-04	 built-in error:3.65e+08
+		n: 32	 CG iter:32	 error:4.75e-02	 built-in error:1.41e+09
+
+Laplacian - 	n: 1	 CG iter:1	 error:0.00e+00	 built-in error:0.00e+00
+		n: 2	 CG iter:1	 error:0.00e+00	 built-in error:3.16e+00
+		n: 4	 CG iter:2	 error:0.00e+00	 built-in error:1.25e+01
+		n: 8	 CG iter:4	 error:0.00e+00	 built-in error:5.45e+01
+		n: 16	 CG iter:8	 error:0.00e+00	 built-in error:2.67e+02
+		n: 32	 CG iter:16	 error:0.00e+00	 built-in error:1.40e+03
+
+Quasi-Newton:
+
+Rosenbrock function-
+For [-1.2, 1] both CG and SR1 in 22 iterations.
+For [1.2, 1.2] both CG and SR1 in 10 iterations.
+For [1.2, -1] both CG and SR1 in 16 iterations.
+
+Powell's Quartic function-
+Both converge after 32 iterations.
